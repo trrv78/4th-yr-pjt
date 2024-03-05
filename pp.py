@@ -108,3 +108,4 @@ elif selected_insight == "Alerts":
     # Check if distance is 0
     if (df_recent['distance'] == 0).any():
         st.warning("Alert: Distance is 0!")
+st.rerun() 
