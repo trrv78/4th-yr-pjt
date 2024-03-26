@@ -2,3 +2,4 @@ plotly.express
 numpy
 supabase
 pdfkit
+scikit-learn
